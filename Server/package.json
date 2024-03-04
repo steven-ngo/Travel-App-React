@@ -1,0 +1,17 @@
+{
+  "name": "servertravelapp",
+  "version": "1.0.0",
+  "description": "server for reactnative app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Travelgroup",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.6"
+  }
+}

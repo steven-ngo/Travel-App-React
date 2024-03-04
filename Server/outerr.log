@@ -1,0 +1,2652 @@
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/home/ec2-user/ServerTravelApp/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:72:20)
+    at Socket.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)

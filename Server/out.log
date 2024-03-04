@@ -1,0 +1,1818 @@
+Example app listening on port 3000!
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' } ]
+{ tripName: 'Friend',
+  destination: 'Pyongyang',
+  destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+  destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ',
+  totalDay: 5,
+  tripID: 991388,
+  userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+  startDay: '2018-12-10T08:00:00.000Z',
+  endDay: '2018-12-14T08:00:00.000Z' }
+INSERT INTO TripInfo (tripName, tripID, userID, destination, totalDay, startDay, endDay, destinationImage, destinationID) VALUES ('Friend', 991388, 'NVYNz781T8WZQGiYtPNfYOpfo863', 'Pyongyang', 5, '2018-12-10T08:00:00.000Z', '2018-12-14T08:00:00.000Z', 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ', 'ChIJN0NP5toCfjURlapxF-J3BtQ')
+{ tupleList: 
+   [ { poiID: 'ChIJXQTHbIMCfjURmhgu2otKo7g',
+       name: 'Rungrado May Day Stadium',
+       day: 1,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 991388 },
+     { poiID: 'ChIJb5yfLOQCfjURdJ4xxRno9M8',
+       name: 'Golden Lane Bowling',
+       day: 1,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 991388 },
+     { poiID: 'ChIJc9qexb4CfjURx-TPYl-2F68',
+       name: '金日成競技場',
+       day: 2,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 991388 } ] }
+INSERT INTO TripDetail (poiID, day, userID, tripID, name) VALUES ("ChIJXQTHbIMCfjURmhgu2otKo7g", "1", "NVYNz781T8WZQGiYtPNfYOpfo863", "991388", "Rungrado May Day Stadium"),("ChIJb5yfLOQCfjURdJ4xxRno9M8", "1", "NVYNz781T8WZQGiYtPNfYOpfo863", "991388", "Golden Lane Bowling"),("ChIJc9qexb4CfjURx-TPYl-2F68", "2", "NVYNz781T8WZQGiYtPNfYOpfo863", "991388", "金日成競技場");
+Successfully insert into database
+Successfully insert day detail into database
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'991388\'' }
+SELECT * FROM TripInfo WHERE tripID = '991388';
+[ RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'991388\'',
+  userID: '\'NVYNz781T8WZQGiYtPNfYOpfo863\'',
+  totalDay: '5' }
+5
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '991388' AND userID = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ { place_id: 'ChIJb5yfLOQCfjURdJ4xxRno9M8',
+    name: 'Golden Lane Bowling' },
+  { place_id: 'ChIJXQTHbIMCfjURmhgu2otKo7g',
+    name: 'Rungrado May Day Stadium' } ]
+[ { place_id: 'ChIJc9qexb4CfjURx-TPYl-2F68', name: '??????' } ]
+{ '1': 
+   [ { place_id: 'ChIJb5yfLOQCfjURdJ4xxRno9M8',
+       name: 'Golden Lane Bowling' },
+     { place_id: 'ChIJXQTHbIMCfjURmhgu2otKo7g',
+       name: 'Rungrado May Day Stadium' } ],
+  '2': [ { place_id: 'ChIJc9qexb4CfjURx-TPYl-2F68', name: '??????' } ],
+  '3': [],
+  '4': [],
+  '5': [] }
+1 [ { place_id: 'ChIJb5yfLOQCfjURdJ4xxRno9M8',
+    name: 'Golden Lane Bowling' },
+  { place_id: 'ChIJXQTHbIMCfjURmhgu2otKo7g',
+    name: 'Rungrado May Day Stadium' } ]
+2 [ { place_id: 'ChIJc9qexb4CfjURx-TPYl-2F68', name: '??????' } ]
+3 []
+4 []
+5 []
+[ RowDataPacket {
+    poiID: 'ChIJb5yfLOQCfjURdJ4xxRno9M8',
+    day: '1',
+    name: 'Golden Lane Bowling' },
+  RowDataPacket {
+    poiID: 'ChIJc9qexb4CfjURx-TPYl-2F68',
+    day: '2',
+    name: '??????' },
+  RowDataPacket {
+    poiID: 'ChIJXQTHbIMCfjURmhgu2otKo7g',
+    day: '1',
+    name: 'Rungrado May Day Stadium' } ]
+[ { day: '1', list: [ [Object], [Object] ] },
+  { day: '2', list: [ [Object] ] },
+  { day: '3', list: [] },
+  { day: '4', list: [] },
+  { day: '5', list: [] } ]
+Example app listening on port 3000!
+Example app listening on port 3000!
+{ userID: 'jWRwq243AQeXP79h9UHT90X2mKv1',
+  userEmail: 'letstravel@gmail.com' }
+INSERT INTO UserInfo (userEmail, userID) VALUES ('letstravel@gmail.com', 'jWRwq243AQeXP79h9UHT90X2mKv1')
+Successfully insert into database
+SELECT * FROM TripInfo WHERE userid = 'jWRwq243AQeXP79h9UHT90X2mKv1';
+[]
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'400951\'' }
+SELECT * FROM TripInfo WHERE tripID = '400951';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' } ]
+{ tripID: '\'400951\'',
+  userID: '\'NVYNz781T8WZQGiYtPNfYOpfo863\'',
+  totalDay: '5' }
+5
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '400951' AND userID = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    name: 'Seventh-Day Adventist Church' } ]
+[ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    name: 'Saint Theresa Parish Center' },
+  { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    name: 'The Brewery At Lake Tahoe' } ]
+[ { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    name: 'The Bear Moon Bar & Grill' } ]
+[ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    name: 'Scusa Italian Ristorante' } ]
+[ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    name: 'Lake Tahoe Community Presbyterian Church' } ]
+{ '1': 
+   [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+       name: 'Riva Grill On the Lake' },
+     { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+       name: 'Seventh-Day Adventist Church' } ],
+  '2': 
+   [ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+       name: 'Saint Theresa Parish Center' },
+     { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+       name: 'The Brewery At Lake Tahoe' } ],
+  '3': 
+   [ { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+       name: 'The Bear Moon Bar & Grill' } ],
+  '4': 
+   [ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+       name: 'Scusa Italian Ristorante' } ],
+  '5': 
+   [ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+       name: 'Lake Tahoe Community Presbyterian Church' } ] }
+1 [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    name: 'Seventh-Day Adventist Church' } ]
+2 [ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    name: 'Saint Theresa Parish Center' },
+  { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    name: 'The Brewery At Lake Tahoe' } ]
+3 [ { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    name: 'The Bear Moon Bar & Grill' } ]
+4 [ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    name: 'Scusa Italian Ristorante' } ]
+5 [ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    name: 'Lake Tahoe Community Presbyterian Church' } ]
+[ RowDataPacket {
+    poiID: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    day: '1',
+    name: 'Riva Grill On the Lake' },
+  RowDataPacket {
+    poiID: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    day: '5',
+    name: 'Lake Tahoe Community Presbyterian Church' },
+  RowDataPacket {
+    poiID: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    day: '3',
+    name: 'The Bear Moon Bar & Grill' },
+  RowDataPacket {
+    poiID: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    day: '4',
+    name: 'Scusa Italian Ristorante' },
+  RowDataPacket {
+    poiID: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    day: '2',
+    name: 'Saint Theresa Parish Center' },
+  RowDataPacket {
+    poiID: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    day: '1',
+    name: 'Seventh-Day Adventist Church' },
+  RowDataPacket {
+    poiID: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    day: '2',
+    name: 'The Brewery At Lake Tahoe' } ]
+[ { day: '1', list: [ [Object], [Object] ] },
+  { day: '2', list: [ [Object], [Object] ] },
+  { day: '3', list: [ [Object] ] },
+  { day: '4', list: [ [Object] ] },
+  { day: '5', list: [ [Object] ] } ]
+{ tupleList: 
+   [ { poiID: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+       name: 'Riva Grill On the Lake',
+       day: '1',
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 400951 },
+     { poiID: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+       name: 'Seventh-Day Adventist Church',
+       day: '1',
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 400951 },
+     { poiID: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+       name: 'Saint Theresa Parish Center',
+       day: '2',
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 400951 },
+     { poiID: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+       name: 'The Brewery At Lake Tahoe',
+       day: '2',
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 400951 },
+     { poiID: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+       name: 'The Bear Moon Bar & Grill',
+       day: '3',
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 400951 },
+     { poiID: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+       name: 'Riva Grill On the Lake',
+       day: '3',
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 400951 },
+     { poiID: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+       name: 'Scusa Italian Ristorante',
+       day: '4',
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 400951 },
+     { poiID: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+       name: 'Lake Tahoe Community Presbyterian Church',
+       day: '5',
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 400951 } ] }
+DELETE FROM TripDetail WHERE userID="NVYNz781T8WZQGiYtPNfYOpfo863" AND tripID="400951"; 
+INSERT INTO TripDetail (poiID, day, userID, tripID, name) VALUES ("ChIJ97RGLQmQmYARN0dpCG5O_RM", "1", "NVYNz781T8WZQGiYtPNfYOpfo863", "400951", "Riva Grill On the Lake"),("ChIJw5CuuBGQmYARKWRbP2Jo3IQ", "1", "NVYNz781T8WZQGiYtPNfYOpfo863", "400951", "Seventh-Day Adventist Church"),("ChIJjZAbrgKQmYARDBqjJLrP4o4", "2", "NVYNz781T8WZQGiYtPNfYOpfo863", "400951", "Saint Theresa Parish Center"),("ChIJXRz_eQ-QmYARjA2wXTVde2U", "2", "NVYNz781T8WZQGiYtPNfYOpfo863", "400951", "The Brewery At Lake Tahoe"),("ChIJE2gxqQ6QmYAREo7qrm7hBIg", "3", "NVYNz781T8WZQGiYtPNfYOpfo863", "400951", "The Bear Moon Bar & Grill"),("ChIJ97RGLQmQmYARN0dpCG5O_RM", "3", "NVYNz781T8WZQGiYtPNfYOpfo863", "400951", "Riva Grill On the Lake"),("ChIJg41vxMKPmYAR755dUlB5UC4", "4", "NVYNz781T8WZQGiYtPNfYOpfo863", "400951", "Scusa Italian Ristorante"),("ChIJaS0rQOePmYAR5sAqnR3K4rU", "5", "NVYNz781T8WZQGiYtPNfYOpfo863", "400951", "Lake Tahoe Community Presbyterian Church");
+Successfully insert day detail into database
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'400951\'' }
+SELECT * FROM TripInfo WHERE tripID = '400951';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' } ]
+{ tripID: '\'400951\'',
+  userID: '\'NVYNz781T8WZQGiYtPNfYOpfo863\'',
+  totalDay: '5' }
+5
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '400951' AND userID = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    name: 'Seventh-Day Adventist Church' } ]
+[ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    name: 'Saint Theresa Parish Center' },
+  { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    name: 'The Brewery At Lake Tahoe' } ]
+[ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    name: 'The Bear Moon Bar & Grill' } ]
+[ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    name: 'Scusa Italian Ristorante' } ]
+[ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    name: 'Lake Tahoe Community Presbyterian Church' } ]
+{ '1': 
+   [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+       name: 'Riva Grill On the Lake' },
+     { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+       name: 'Seventh-Day Adventist Church' } ],
+  '2': 
+   [ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+       name: 'Saint Theresa Parish Center' },
+     { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+       name: 'The Brewery At Lake Tahoe' } ],
+  '3': 
+   [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+       name: 'Riva Grill On the Lake' },
+     { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+       name: 'The Bear Moon Bar & Grill' } ],
+  '4': 
+   [ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+       name: 'Scusa Italian Ristorante' } ],
+  '5': 
+   [ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+       name: 'Lake Tahoe Community Presbyterian Church' } ] }
+1 [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    name: 'Seventh-Day Adventist Church' } ]
+2 [ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    name: 'Saint Theresa Parish Center' },
+  { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    name: 'The Brewery At Lake Tahoe' } ]
+3 [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    name: 'The Bear Moon Bar & Grill' } ]
+4 [ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    name: 'Scusa Italian Ristorante' } ]
+5 [ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    name: 'Lake Tahoe Community Presbyterian Church' } ]
+[ RowDataPacket {
+    poiID: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    day: '1',
+    name: 'Riva Grill On the Lake' },
+  RowDataPacket {
+    poiID: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    day: '3',
+    name: 'Riva Grill On the Lake' },
+  RowDataPacket {
+    poiID: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    day: '5',
+    name: 'Lake Tahoe Community Presbyterian Church' },
+  RowDataPacket {
+    poiID: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    day: '3',
+    name: 'The Bear Moon Bar & Grill' },
+  RowDataPacket {
+    poiID: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    day: '4',
+    name: 'Scusa Italian Ristorante' },
+  RowDataPacket {
+    poiID: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    day: '2',
+    name: 'Saint Theresa Parish Center' },
+  RowDataPacket {
+    poiID: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    day: '1',
+    name: 'Seventh-Day Adventist Church' },
+  RowDataPacket {
+    poiID: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    day: '2',
+    name: 'The Brewery At Lake Tahoe' } ]
+[ { day: '1', list: [ [Object], [Object] ] },
+  { day: '2', list: [ [Object], [Object] ] },
+  { day: '3', list: [ [Object], [Object] ] },
+  { day: '4', list: [ [Object] ] },
+  { day: '5', list: [ [Object] ] } ]
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'968929\'' }
+SELECT * FROM TripInfo WHERE tripID = '968929';
+[ RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' } ]
+{ tripID: '\'968929\'',
+  userID: '\'NVYNz781T8WZQGiYtPNfYOpfo863\'',
+  totalDay: '4' }
+4
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '968929' AND userID = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ { place_id: 'ChIJgVFZLKtYXIYRsih_rnNo3EE',
+    name: 'Louis Tussaud’s Waxworks' },
+  { place_id: 'ChIJraha7UxfXIYR80xEjyqAHGg',
+    name: 'Santa Rosa Helistop' } ]
+[ { place_id: 'ChIJM0it1gH2XIYR2JRSTPzmR0s',
+    name: 'Del Rio Heliport' } ]
+[ { place_id: 'ChIJV5U9KaFYXIYR4WyfGeJwhpE',
+    name: 'Allied Amusement Shop' } ]
+[ { place_id: 'ChIJ2UvZCFFfXIYRLPCz9HYjruo',
+    name: 'Hospital Helipad' } ]
+{ '1': 
+   [ { place_id: 'ChIJgVFZLKtYXIYRsih_rnNo3EE',
+       name: 'Louis Tussaud’s Waxworks' },
+     { place_id: 'ChIJraha7UxfXIYR80xEjyqAHGg',
+       name: 'Santa Rosa Helistop' } ],
+  '2': 
+   [ { place_id: 'ChIJM0it1gH2XIYR2JRSTPzmR0s',
+       name: 'Del Rio Heliport' } ],
+  '3': 
+   [ { place_id: 'ChIJV5U9KaFYXIYR4WyfGeJwhpE',
+       name: 'Allied Amusement Shop' } ],
+  '4': 
+   [ { place_id: 'ChIJ2UvZCFFfXIYRLPCz9HYjruo',
+       name: 'Hospital Helipad' } ] }
+1 [ { place_id: 'ChIJgVFZLKtYXIYRsih_rnNo3EE',
+    name: 'Louis Tussaud’s Waxworks' },
+  { place_id: 'ChIJraha7UxfXIYR80xEjyqAHGg',
+    name: 'Santa Rosa Helistop' } ]
+2 [ { place_id: 'ChIJM0it1gH2XIYR2JRSTPzmR0s',
+    name: 'Del Rio Heliport' } ]
+3 [ { place_id: 'ChIJV5U9KaFYXIYR4WyfGeJwhpE',
+    name: 'Allied Amusement Shop' } ]
+4 [ { place_id: 'ChIJ2UvZCFFfXIYRLPCz9HYjruo',
+    name: 'Hospital Helipad' } ]
+[ RowDataPacket {
+    poiID: 'ChIJ2UvZCFFfXIYRLPCz9HYjruo',
+    day: '4',
+    name: 'Hospital Helipad' },
+  RowDataPacket {
+    poiID: 'ChIJgVFZLKtYXIYRsih_rnNo3EE',
+    day: '1',
+    name: 'Louis Tussaud’s Waxworks' },
+  RowDataPacket {
+    poiID: 'ChIJM0it1gH2XIYR2JRSTPzmR0s',
+    day: '2',
+    name: 'Del Rio Heliport' },
+  RowDataPacket {
+    poiID: 'ChIJraha7UxfXIYR80xEjyqAHGg',
+    day: '1',
+    name: 'Santa Rosa Helistop' },
+  RowDataPacket {
+    poiID: 'ChIJV5U9KaFYXIYR4WyfGeJwhpE',
+    day: '3',
+    name: 'Allied Amusement Shop' } ]
+[ { day: '1', list: [ [Object], [Object] ] },
+  { day: '2', list: [ [Object] ] },
+  { day: '3', list: [ [Object] ] },
+  { day: '4', list: [ [Object] ] } ]
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'991388\'' }
+SELECT * FROM TripInfo WHERE tripID = '991388';
+[ RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'991388\'',
+  userID: '\'NVYNz781T8WZQGiYtPNfYOpfo863\'',
+  totalDay: '5' }
+5
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '991388' AND userID = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ { place_id: 'ChIJb5yfLOQCfjURdJ4xxRno9M8',
+    name: 'Golden Lane Bowling' },
+  { place_id: 'ChIJXQTHbIMCfjURmhgu2otKo7g',
+    name: 'Rungrado May Day Stadium' } ]
+[ { place_id: 'ChIJc9qexb4CfjURx-TPYl-2F68', name: '??????' } ]
+{ '1': 
+   [ { place_id: 'ChIJb5yfLOQCfjURdJ4xxRno9M8',
+       name: 'Golden Lane Bowling' },
+     { place_id: 'ChIJXQTHbIMCfjURmhgu2otKo7g',
+       name: 'Rungrado May Day Stadium' } ],
+  '2': [ { place_id: 'ChIJc9qexb4CfjURx-TPYl-2F68', name: '??????' } ],
+  '3': [],
+  '4': [],
+  '5': [] }
+1 [ { place_id: 'ChIJb5yfLOQCfjURdJ4xxRno9M8',
+    name: 'Golden Lane Bowling' },
+  { place_id: 'ChIJXQTHbIMCfjURmhgu2otKo7g',
+    name: 'Rungrado May Day Stadium' } ]
+2 [ { place_id: 'ChIJc9qexb4CfjURx-TPYl-2F68', name: '??????' } ]
+3 []
+4 []
+5 []
+[ RowDataPacket {
+    poiID: 'ChIJb5yfLOQCfjURdJ4xxRno9M8',
+    day: '1',
+    name: 'Golden Lane Bowling' },
+  RowDataPacket {
+    poiID: 'ChIJc9qexb4CfjURx-TPYl-2F68',
+    day: '2',
+    name: '??????' },
+  RowDataPacket {
+    poiID: 'ChIJXQTHbIMCfjURmhgu2otKo7g',
+    day: '1',
+    name: 'Rungrado May Day Stadium' } ]
+[ { day: '1', list: [ [Object], [Object] ] },
+  { day: '2', list: [ [Object] ] },
+  { day: '3', list: [] },
+  { day: '4', list: [] },
+  { day: '5', list: [] } ]
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'400951\'' }
+SELECT * FROM TripInfo WHERE tripID = '400951';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' } ]
+{ tripID: '\'400951\'',
+  userID: '\'NVYNz781T8WZQGiYtPNfYOpfo863\'',
+  totalDay: '5' }
+5
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '400951' AND userID = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    name: 'Seventh-Day Adventist Church' } ]
+[ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    name: 'Saint Theresa Parish Center' },
+  { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    name: 'The Brewery At Lake Tahoe' } ]
+[ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    name: 'The Bear Moon Bar & Grill' } ]
+[ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    name: 'Scusa Italian Ristorante' } ]
+[ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    name: 'Lake Tahoe Community Presbyterian Church' } ]
+{ '1': 
+   [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+       name: 'Riva Grill On the Lake' },
+     { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+       name: 'Seventh-Day Adventist Church' } ],
+  '2': 
+   [ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+       name: 'Saint Theresa Parish Center' },
+     { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+       name: 'The Brewery At Lake Tahoe' } ],
+  '3': 
+   [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+       name: 'Riva Grill On the Lake' },
+     { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+       name: 'The Bear Moon Bar & Grill' } ],
+  '4': 
+   [ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+       name: 'Scusa Italian Ristorante' } ],
+  '5': 
+   [ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+       name: 'Lake Tahoe Community Presbyterian Church' } ] }
+1 [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    name: 'Seventh-Day Adventist Church' } ]
+2 [ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    name: 'Saint Theresa Parish Center' },
+  { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    name: 'The Brewery At Lake Tahoe' } ]
+3 [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    name: 'The Bear Moon Bar & Grill' } ]
+4 [ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    name: 'Scusa Italian Ristorante' } ]
+5 [ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    name: 'Lake Tahoe Community Presbyterian Church' } ]
+[ RowDataPacket {
+    poiID: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    day: '1',
+    name: 'Riva Grill On the Lake' },
+  RowDataPacket {
+    poiID: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    day: '3',
+    name: 'Riva Grill On the Lake' },
+  RowDataPacket {
+    poiID: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    day: '5',
+    name: 'Lake Tahoe Community Presbyterian Church' },
+  RowDataPacket {
+    poiID: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    day: '3',
+    name: 'The Bear Moon Bar & Grill' },
+  RowDataPacket {
+    poiID: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    day: '4',
+    name: 'Scusa Italian Ristorante' },
+  RowDataPacket {
+    poiID: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    day: '2',
+    name: 'Saint Theresa Parish Center' },
+  RowDataPacket {
+    poiID: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    day: '1',
+    name: 'Seventh-Day Adventist Church' },
+  RowDataPacket {
+    poiID: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    day: '2',
+    name: 'The Brewery At Lake Tahoe' } ]
+[ { day: '1', list: [ [Object], [Object] ] },
+  { day: '2', list: [ [Object], [Object] ] },
+  { day: '3', list: [ [Object], [Object] ] },
+  { day: '4', list: [ [Object] ] },
+  { day: '5', list: [ [Object] ] } ]
+{ userID: '3U0HHVQqKGZkf9miLzxi2rtLN7n2',
+  userEmail: 'angelnhi212@gmail.com' }
+INSERT INTO UserInfo (userEmail, userID) VALUES ('angelnhi212@gmail.com', '3U0HHVQqKGZkf9miLzxi2rtLN7n2')
+Successfully insert into database
+{ tupleList: 
+   [ { poiID: 'ChIJmRxO7_mipBIRdCiunF_6N_U',
+       name: 'Hotel Barcelona Catedral',
+       day: 1,
+       userID: '3U0HHVQqKGZkf9miLzxi2rtLN7n2',
+       tripID: 589871 },
+     { poiID: 'ChIJf0AI5oaipBIR0wGza6ackao',
+       name: 'Sercotel Ámister Art Hotel',
+       day: 1,
+       userID: '3U0HHVQqKGZkf9miLzxi2rtLN7n2',
+       tripID: 589871 },
+     { poiID: 'ChIJ5xgjZFOipBIRtEL-QfKu3tU',
+       name: 'Maremagnum',
+       day: 1,
+       userID: '3U0HHVQqKGZkf9miLzxi2rtLN7n2',
+       tripID: 589871 },
+     { poiID: 'ChIJTUZZB_SipBIRr4A7LZHd6LE',
+       name: 'Centre Comercial El Triangle',
+       day: 4,
+       userID: '3U0HHVQqKGZkf9miLzxi2rtLN7n2',
+       tripID: 589871 },
+     { poiID: 'ChIJS74Ln_SipBIRjUd-CEQ7Jnw',
+       name: 'Majestic Hotel & Spa Barcelona GL',
+       day: 5,
+       userID: '3U0HHVQqKGZkf9miLzxi2rtLN7n2',
+       tripID: 589871 } ] }
+INSERT INTO TripDetail (poiID, day, userID, tripID, name) VALUES ("ChIJmRxO7_mipBIRdCiunF_6N_U", "1", "3U0HHVQqKGZkf9miLzxi2rtLN7n2", "589871", "Hotel Barcelona Catedral"),("ChIJf0AI5oaipBIR0wGza6ackao", "1", "3U0HHVQqKGZkf9miLzxi2rtLN7n2", "589871", "Sercotel Ámister Art Hotel"),("ChIJ5xgjZFOipBIRtEL-QfKu3tU", "1", "3U0HHVQqKGZkf9miLzxi2rtLN7n2", "589871", "Maremagnum"),("ChIJTUZZB_SipBIRr4A7LZHd6LE", "4", "3U0HHVQqKGZkf9miLzxi2rtLN7n2", "589871", "Centre Comercial El Triangle"),("ChIJS74Ln_SipBIRjUd-CEQ7Jnw", "5", "3U0HHVQqKGZkf9miLzxi2rtLN7n2", "589871", "Majestic Hotel & Spa Barcelona GL");
+{ tripName: 'Budget',
+  destination: 'Barcelona',
+  destinationImage: 'CmRZAAAAdYtiuOAW5pxPZ7lqwl_3PRp03u0wFRT5g95EvZH1Z9lHp_TUjMHxxjnasaMsdWwOVAhtP5kSZG7fb2wwDAuQcmZICVLB8SynhkBAuRm6eEgqfoqbJTuIO8Prb_hBzsgkEhAe1hqIR1lBv7SwL0X475BVGhQpAk1PfTMDsFSqlNkC-ozGPYlNDw',
+  destinationID: 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ',
+  totalDay: 5,
+  tripID: 589871,
+  userID: '3U0HHVQqKGZkf9miLzxi2rtLN7n2',
+  startDay: '2019-05-07T07:00:00.000Z',
+  endDay: '2019-05-11T07:00:00.000Z' }
+INSERT INTO TripInfo (tripName, tripID, userID, destination, totalDay, startDay, endDay, destinationImage, destinationID) VALUES ('Budget', 589871, '3U0HHVQqKGZkf9miLzxi2rtLN7n2', 'Barcelona', 5, '2019-05-07T07:00:00.000Z', '2019-05-11T07:00:00.000Z', 'CmRZAAAAdYtiuOAW5pxPZ7lqwl_3PRp03u0wFRT5g95EvZH1Z9lHp_TUjMHxxjnasaMsdWwOVAhtP5kSZG7fb2wwDAuQcmZICVLB8SynhkBAuRm6eEgqfoqbJTuIO8Prb_hBzsgkEhAe1hqIR1lBv7SwL0X475BVGhQpAk1PfTMDsFSqlNkC-ozGPYlNDw', 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ')
+Successfully insert day detail into database
+Successfully insert into database
+SELECT * FROM TripInfo WHERE userid = '3U0HHVQqKGZkf9miLzxi2rtLN7n2';
+[ RowDataPacket {
+    tripName: 'Budget',
+    tripID: 589871,
+    startDay: '2019-05-07T07:00:00.000Z',
+    endDay: '2019-05-11T07:00:00.000Z',
+    destination: 'Barcelona',
+    totalDay: 5,
+    userID: '3U0HHVQqKGZkf9miLzxi2rtLN7n2',
+    destinationImage: 'CmRZAAAAdYtiuOAW5pxPZ7lqwl_3PRp03u0wFRT5g95EvZH1Z9lHp_TUjMHxxjnasaMsdWwOVAhtP5kSZG7fb2wwDAuQcmZICVLB8SynhkBAuRm6eEgqfoqbJTuIO8Prb_hBzsgkEhAe1hqIR1lBv7SwL0X475BVGhQpAk1PfTMDsFSqlNkC-ozGPYlNDw',
+    destinationID: 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ' } ]
+{ tripID: '\'589871\'' }
+SELECT * FROM TripInfo WHERE tripID = '589871';
+[ RowDataPacket {
+    tripName: 'Budget',
+    tripID: 589871,
+    startDay: '2019-05-07T07:00:00.000Z',
+    endDay: '2019-05-11T07:00:00.000Z',
+    destination: 'Barcelona',
+    totalDay: 5,
+    userID: '3U0HHVQqKGZkf9miLzxi2rtLN7n2',
+    destinationImage: 'CmRZAAAAdYtiuOAW5pxPZ7lqwl_3PRp03u0wFRT5g95EvZH1Z9lHp_TUjMHxxjnasaMsdWwOVAhtP5kSZG7fb2wwDAuQcmZICVLB8SynhkBAuRm6eEgqfoqbJTuIO8Prb_hBzsgkEhAe1hqIR1lBv7SwL0X475BVGhQpAk1PfTMDsFSqlNkC-ozGPYlNDw',
+    destinationID: 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ' } ]
+{ tripID: '\'589871\'',
+  userID: '\'3U0HHVQqKGZkf9miLzxi2rtLN7n2\'',
+  totalDay: '5' }
+5
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '589871' AND userID = '3U0HHVQqKGZkf9miLzxi2rtLN7n2';
+[ { place_id: 'ChIJ5xgjZFOipBIRtEL-QfKu3tU', name: 'Maremagnum' },
+  { place_id: 'ChIJf0AI5oaipBIR0wGza6ackao',
+    name: 'Sercotel Ámister Art Hotel' },
+  { place_id: 'ChIJmRxO7_mipBIRdCiunF_6N_U',
+    name: 'Hotel Barcelona Catedral' } ]
+[ { place_id: 'ChIJTUZZB_SipBIRr4A7LZHd6LE',
+    name: 'Centre Comercial El Triangle' } ]
+[ { place_id: 'ChIJS74Ln_SipBIRjUd-CEQ7Jnw',
+    name: 'Majestic Hotel & Spa Barcelona GL' } ]
+{ '1': 
+   [ { place_id: 'ChIJ5xgjZFOipBIRtEL-QfKu3tU', name: 'Maremagnum' },
+     { place_id: 'ChIJf0AI5oaipBIR0wGza6ackao',
+       name: 'Sercotel Ámister Art Hotel' },
+     { place_id: 'ChIJmRxO7_mipBIRdCiunF_6N_U',
+       name: 'Hotel Barcelona Catedral' } ],
+  '2': [],
+  '3': [],
+  '4': 
+   [ { place_id: 'ChIJTUZZB_SipBIRr4A7LZHd6LE',
+       name: 'Centre Comercial El Triangle' } ],
+  '5': 
+   [ { place_id: 'ChIJS74Ln_SipBIRjUd-CEQ7Jnw',
+       name: 'Majestic Hotel & Spa Barcelona GL' } ] }
+1 [ { place_id: 'ChIJ5xgjZFOipBIRtEL-QfKu3tU', name: 'Maremagnum' },
+  { place_id: 'ChIJf0AI5oaipBIR0wGza6ackao',
+    name: 'Sercotel Ámister Art Hotel' },
+  { place_id: 'ChIJmRxO7_mipBIRdCiunF_6N_U',
+    name: 'Hotel Barcelona Catedral' } ]
+2 []
+3 []
+4 [ { place_id: 'ChIJTUZZB_SipBIRr4A7LZHd6LE',
+    name: 'Centre Comercial El Triangle' } ]
+5 [ { place_id: 'ChIJS74Ln_SipBIRjUd-CEQ7Jnw',
+    name: 'Majestic Hotel & Spa Barcelona GL' } ]
+[ RowDataPacket {
+    poiID: 'ChIJ5xgjZFOipBIRtEL-QfKu3tU',
+    day: '1',
+    name: 'Maremagnum' },
+  RowDataPacket {
+    poiID: 'ChIJf0AI5oaipBIR0wGza6ackao',
+    day: '1',
+    name: 'Sercotel Ámister Art Hotel' },
+  RowDataPacket {
+    poiID: 'ChIJmRxO7_mipBIRdCiunF_6N_U',
+    day: '1',
+    name: 'Hotel Barcelona Catedral' },
+  RowDataPacket {
+    poiID: 'ChIJS74Ln_SipBIRjUd-CEQ7Jnw',
+    day: '5',
+    name: 'Majestic Hotel & Spa Barcelona GL' },
+  RowDataPacket {
+    poiID: 'ChIJTUZZB_SipBIRr4A7LZHd6LE',
+    day: '4',
+    name: 'Centre Comercial El Triangle' } ]
+[ { day: '1', list: [ [Object], [Object], [Object] ] },
+  { day: '2', list: [] },
+  { day: '3', list: [] },
+  { day: '4', list: [ [Object] ] },
+  { day: '5', list: [ [Object] ] } ]
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'968929\'' }
+SELECT * FROM TripInfo WHERE tripID = '968929';
+[ RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' } ]
+{ tripID: '\'968929\'',
+  userID: '\'NVYNz781T8WZQGiYtPNfYOpfo863\'',
+  totalDay: '4' }
+4
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '968929' AND userID = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ { place_id: 'ChIJgVFZLKtYXIYRsih_rnNo3EE',
+    name: 'Louis Tussaud’s Waxworks' },
+  { place_id: 'ChIJraha7UxfXIYR80xEjyqAHGg',
+    name: 'Santa Rosa Helistop' } ]
+[ { place_id: 'ChIJM0it1gH2XIYR2JRSTPzmR0s',
+    name: 'Del Rio Heliport' } ]
+[ { place_id: 'ChIJV5U9KaFYXIYR4WyfGeJwhpE',
+    name: 'Allied Amusement Shop' } ]
+[ { place_id: 'ChIJ2UvZCFFfXIYRLPCz9HYjruo',
+    name: 'Hospital Helipad' } ]
+{ '1': 
+   [ { place_id: 'ChIJgVFZLKtYXIYRsih_rnNo3EE',
+       name: 'Louis Tussaud’s Waxworks' },
+     { place_id: 'ChIJraha7UxfXIYR80xEjyqAHGg',
+       name: 'Santa Rosa Helistop' } ],
+  '2': 
+   [ { place_id: 'ChIJM0it1gH2XIYR2JRSTPzmR0s',
+       name: 'Del Rio Heliport' } ],
+  '3': 
+   [ { place_id: 'ChIJV5U9KaFYXIYR4WyfGeJwhpE',
+       name: 'Allied Amusement Shop' } ],
+  '4': 
+   [ { place_id: 'ChIJ2UvZCFFfXIYRLPCz9HYjruo',
+       name: 'Hospital Helipad' } ] }
+1 [ { place_id: 'ChIJgVFZLKtYXIYRsih_rnNo3EE',
+    name: 'Louis Tussaud’s Waxworks' },
+  { place_id: 'ChIJraha7UxfXIYR80xEjyqAHGg',
+    name: 'Santa Rosa Helistop' } ]
+2 [ { place_id: 'ChIJM0it1gH2XIYR2JRSTPzmR0s',
+    name: 'Del Rio Heliport' } ]
+3 [ { place_id: 'ChIJV5U9KaFYXIYR4WyfGeJwhpE',
+    name: 'Allied Amusement Shop' } ]
+4 [ { place_id: 'ChIJ2UvZCFFfXIYRLPCz9HYjruo',
+    name: 'Hospital Helipad' } ]
+[ RowDataPacket {
+    poiID: 'ChIJ2UvZCFFfXIYRLPCz9HYjruo',
+    day: '4',
+    name: 'Hospital Helipad' },
+  RowDataPacket {
+    poiID: 'ChIJgVFZLKtYXIYRsih_rnNo3EE',
+    day: '1',
+    name: 'Louis Tussaud’s Waxworks' },
+  RowDataPacket {
+    poiID: 'ChIJM0it1gH2XIYR2JRSTPzmR0s',
+    day: '2',
+    name: 'Del Rio Heliport' },
+  RowDataPacket {
+    poiID: 'ChIJraha7UxfXIYR80xEjyqAHGg',
+    day: '1',
+    name: 'Santa Rosa Helistop' },
+  RowDataPacket {
+    poiID: 'ChIJV5U9KaFYXIYR4WyfGeJwhpE',
+    day: '3',
+    name: 'Allied Amusement Shop' } ]
+[ { day: '1', list: [ [Object], [Object] ] },
+  { day: '2', list: [ [Object] ] },
+  { day: '3', list: [ [Object] ] },
+  { day: '4', list: [ [Object] ] } ]
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+SELECT * FROM TripInfo WHERE userid = '3U0HHVQqKGZkf9miLzxi2rtLN7n2';
+[ RowDataPacket {
+    tripName: 'Budget',
+    tripID: 589871,
+    startDay: '2019-05-07T07:00:00.000Z',
+    endDay: '2019-05-11T07:00:00.000Z',
+    destination: 'Barcelona',
+    totalDay: 5,
+    userID: '3U0HHVQqKGZkf9miLzxi2rtLN7n2',
+    destinationImage: 'CmRZAAAAdYtiuOAW5pxPZ7lqwl_3PRp03u0wFRT5g95EvZH1Z9lHp_TUjMHxxjnasaMsdWwOVAhtP5kSZG7fb2wwDAuQcmZICVLB8SynhkBAuRm6eEgqfoqbJTuIO8Prb_hBzsgkEhAe1hqIR1lBv7SwL0X475BVGhQpAk1PfTMDsFSqlNkC-ozGPYlNDw',
+    destinationID: 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ' } ]
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+{ tupleList: 
+   [ { poiID: 'ChIJsY9cyJ7Aj4AR-Dvf17w64T4',
+       name: 'Fremont Hub',
+       day: 1,
+       userID: 'CzUaZJSAmxeF85CRoJr6wApMMhe2',
+       tripID: 408337 },
+     { poiID: 'ChIJgVfIiFC_j4ARLYEcjgbnPEk',
+       name: 'NewPark Mall',
+       day: 1,
+       userID: 'CzUaZJSAmxeF85CRoJr6wApMMhe2',
+       tripID: 408337 },
+     { poiID: 'ChIJgVfIiFC_j4ARLYEcjgbnPEk',
+       name: 'NewPark Mall',
+       day: 2,
+       userID: 'CzUaZJSAmxeF85CRoJr6wApMMhe2',
+       tripID: 408337 },
+     { poiID: 'ChIJzXYuto_Aj4ARwrUOvQRYf8g',
+       name: 'Gateway Plaza',
+       day: 4,
+       userID: 'CzUaZJSAmxeF85CRoJr6wApMMhe2',
+       tripID: 408337 } ] }
+INSERT INTO TripDetail (poiID, day, userID, tripID, name) VALUES ("ChIJsY9cyJ7Aj4AR-Dvf17w64T4", "1", "CzUaZJSAmxeF85CRoJr6wApMMhe2", "408337", "Fremont Hub"),("ChIJgVfIiFC_j4ARLYEcjgbnPEk", "1", "CzUaZJSAmxeF85CRoJr6wApMMhe2", "408337", "NewPark Mall"),("ChIJgVfIiFC_j4ARLYEcjgbnPEk", "2", "CzUaZJSAmxeF85CRoJr6wApMMhe2", "408337", "NewPark Mall"),("ChIJzXYuto_Aj4ARwrUOvQRYf8g", "4", "CzUaZJSAmxeF85CRoJr6wApMMhe2", "408337", "Gateway Plaza");
+{ tripName: 'Andy’s',
+  destination: 'Fremont',
+  destinationImage: 'CmRaAAAAZ--4dz_fNvNWZZAPGePswfxhRYY84I9-QkvSmnjfztt31YwBJS_c1YKQPZR8AqNO7S4NijLPX_54g0zL8AFOAAElK60vAhE0wiP-gaY5Tw-_6xzT2f1mJsUmL3mpSUIxEhCck4xWCWtHROS_pdO_aOEZGhRq-AjABVD_89RoZKeb2qAiHALUAw',
+  destinationID: 'ChIJ98rot0a_j4AR1IjYiTsx2oo',
+  totalDay: 5,
+  tripID: 408337,
+  userID: 'CzUaZJSAmxeF85CRoJr6wApMMhe2',
+  startDay: '2018-12-17T08:00:00.000Z',
+  endDay: '2018-12-21T08:00:00.000Z' }
+INSERT INTO TripInfo (tripName, tripID, userID, destination, totalDay, startDay, endDay, destinationImage, destinationID) VALUES ('Andy’s', 408337, 'CzUaZJSAmxeF85CRoJr6wApMMhe2', 'Fremont', 5, '2018-12-17T08:00:00.000Z', '2018-12-21T08:00:00.000Z', 'CmRaAAAAZ--4dz_fNvNWZZAPGePswfxhRYY84I9-QkvSmnjfztt31YwBJS_c1YKQPZR8AqNO7S4NijLPX_54g0zL8AFOAAElK60vAhE0wiP-gaY5Tw-_6xzT2f1mJsUmL3mpSUIxEhCck4xWCWtHROS_pdO_aOEZGhRq-AjABVD_89RoZKeb2qAiHALUAw', 'ChIJ98rot0a_j4AR1IjYiTsx2oo')
+Successfully insert into database
+Successfully insert day detail into database
+SELECT * FROM TripInfo WHERE userid = 'CzUaZJSAmxeF85CRoJr6wApMMhe2';
+[ RowDataPacket {
+    tripName: 'Andy’s',
+    tripID: 408337,
+    startDay: '2018-12-17T08:00:00.000Z',
+    endDay: '2018-12-21T08:00:00.000Z',
+    destination: 'Fremont',
+    totalDay: 5,
+    userID: 'CzUaZJSAmxeF85CRoJr6wApMMhe2',
+    destinationImage: 'CmRaAAAAZ--4dz_fNvNWZZAPGePswfxhRYY84I9-QkvSmnjfztt31YwBJS_c1YKQPZR8AqNO7S4NijLPX_54g0zL8AFOAAElK60vAhE0wiP-gaY5Tw-_6xzT2f1mJsUmL3mpSUIxEhCck4xWCWtHROS_pdO_aOEZGhRq-AjABVD_89RoZKeb2qAiHALUAw',
+    destinationID: 'ChIJ98rot0a_j4AR1IjYiTsx2oo' } ]
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+{ tupleList: 
+   [ { poiID: 'ChIJ0SMraI-AhYAREeJAvm2_yGM',
+       name: 'Hotel Fusion',
+       day: 1,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 114502 },
+     { poiID: 'ChIJEdGJjp6AhYARGAL3TVoIHzw',
+       name: 'Termales Agua Caliente, San Francisco',
+       day: 1,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 114502 },
+     { poiID: 'ChIJN2S4EI2AhYAR9J4Qeh1U8Aw',
+       name: 'Fairmont San Francisco',
+       day: 2,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 114502 },
+     { poiID: 'ChIJP5PrLYSAhYARBcWhJXs55P4',
+       name: '54 Mint SF',
+       day: 4,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 114502 } ] }
+INSERT INTO TripDetail (poiID, day, userID, tripID, name) VALUES ("ChIJ0SMraI-AhYAREeJAvm2_yGM", "1", "NVYNz781T8WZQGiYtPNfYOpfo863", "114502", "Hotel Fusion"),("ChIJEdGJjp6AhYARGAL3TVoIHzw", "1", "NVYNz781T8WZQGiYtPNfYOpfo863", "114502", "Termales Agua Caliente, San Francisco"),("ChIJN2S4EI2AhYAR9J4Qeh1U8Aw", "2", "NVYNz781T8WZQGiYtPNfYOpfo863", "114502", "Fairmont San Francisco"),("ChIJP5PrLYSAhYARBcWhJXs55P4", "4", "NVYNz781T8WZQGiYtPNfYOpfo863", "114502", "54 Mint SF");
+Successfully insert day detail into database
+{ tripName: 'Hello',
+  destination: 'San Francisco',
+  destinationImage: 'CmRaAAAAygKdOygtlbIvB2zn1ia5VREd8M8qdr7LWPW_n8_SRGp7Was8rGeXAcrIbMID4WQFzydG-9jqa31HEKkv9XRO8OO5qUkTf5jF-KTGBu6GUdcZ1jsGv0RqhzvYsi02lD4PEhBZA6Td7nk47WyddJ0ek08VGhTV_iCesoxYGce0RtB9xeNPuqUN0A',
+  destinationID: 'ChIJIQBpAG2ahYAR_6128GcTUEo',
+  totalDay: 4,
+  tripID: 114502,
+  userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+  startDay: '2019-01-14T08:00:00.000Z',
+  endDay: '2019-01-17T08:00:00.000Z' }
+INSERT INTO TripInfo (tripName, tripID, userID, destination, totalDay, startDay, endDay, destinationImage, destinationID) VALUES ('Hello', 114502, 'NVYNz781T8WZQGiYtPNfYOpfo863', 'San Francisco', 4, '2019-01-14T08:00:00.000Z', '2019-01-17T08:00:00.000Z', 'CmRaAAAAygKdOygtlbIvB2zn1ia5VREd8M8qdr7LWPW_n8_SRGp7Was8rGeXAcrIbMID4WQFzydG-9jqa31HEKkv9XRO8OO5qUkTf5jF-KTGBu6GUdcZ1jsGv0RqhzvYsi02lD4PEhBZA6Td7nk47WyddJ0ek08VGhTV_iCesoxYGce0RtB9xeNPuqUN0A', 'ChIJIQBpAG2ahYAR_6128GcTUEo')
+Successfully insert into database
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'Hello',
+    tripID: 114502,
+    startDay: '2019-01-14T08:00:00.000Z',
+    endDay: '2019-01-17T08:00:00.000Z',
+    destination: 'San Francisco',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAygKdOygtlbIvB2zn1ia5VREd8M8qdr7LWPW_n8_SRGp7Was8rGeXAcrIbMID4WQFzydG-9jqa31HEKkv9XRO8OO5qUkTf5jF-KTGBu6GUdcZ1jsGv0RqhzvYsi02lD4PEhBZA6Td7nk47WyddJ0ek08VGhTV_iCesoxYGce0RtB9xeNPuqUN0A',
+    destinationID: 'ChIJIQBpAG2ahYAR_6128GcTUEo' },
+  RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'114502\'' }
+SELECT * FROM TripInfo WHERE tripID = '114502';
+[ RowDataPacket {
+    tripName: 'Hello',
+    tripID: 114502,
+    startDay: '2019-01-14T08:00:00.000Z',
+    endDay: '2019-01-17T08:00:00.000Z',
+    destination: 'San Francisco',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAygKdOygtlbIvB2zn1ia5VREd8M8qdr7LWPW_n8_SRGp7Was8rGeXAcrIbMID4WQFzydG-9jqa31HEKkv9XRO8OO5qUkTf5jF-KTGBu6GUdcZ1jsGv0RqhzvYsi02lD4PEhBZA6Td7nk47WyddJ0ek08VGhTV_iCesoxYGce0RtB9xeNPuqUN0A',
+    destinationID: 'ChIJIQBpAG2ahYAR_6128GcTUEo' } ]
+{ tripID: '\'114502\'',
+  userID: '\'NVYNz781T8WZQGiYtPNfYOpfo863\'',
+  totalDay: '4' }
+4
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '114502' AND userID = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ { place_id: 'ChIJ0SMraI-AhYAREeJAvm2_yGM',
+    name: 'Hotel Fusion' },
+  { place_id: 'ChIJEdGJjp6AhYARGAL3TVoIHzw',
+    name: 'Termales Agua Caliente, San Francisco' } ]
+[ { place_id: 'ChIJN2S4EI2AhYAR9J4Qeh1U8Aw',
+    name: 'Fairmont San Francisco' } ]
+[ { place_id: 'ChIJP5PrLYSAhYARBcWhJXs55P4', name: '54 Mint SF' } ]
+{ '1': 
+   [ { place_id: 'ChIJ0SMraI-AhYAREeJAvm2_yGM',
+       name: 'Hotel Fusion' },
+     { place_id: 'ChIJEdGJjp6AhYARGAL3TVoIHzw',
+       name: 'Termales Agua Caliente, San Francisco' } ],
+  '2': 
+   [ { place_id: 'ChIJN2S4EI2AhYAR9J4Qeh1U8Aw',
+       name: 'Fairmont San Francisco' } ],
+  '3': [],
+  '4': [ { place_id: 'ChIJP5PrLYSAhYARBcWhJXs55P4', name: '54 Mint SF' } ] }
+1 [ { place_id: 'ChIJ0SMraI-AhYAREeJAvm2_yGM',
+    name: 'Hotel Fusion' },
+  { place_id: 'ChIJEdGJjp6AhYARGAL3TVoIHzw',
+    name: 'Termales Agua Caliente, San Francisco' } ]
+2 [ { place_id: 'ChIJN2S4EI2AhYAR9J4Qeh1U8Aw',
+    name: 'Fairmont San Francisco' } ]
+3 []
+4 [ { place_id: 'ChIJP5PrLYSAhYARBcWhJXs55P4', name: '54 Mint SF' } ]
+[ RowDataPacket {
+    poiID: 'ChIJ0SMraI-AhYAREeJAvm2_yGM',
+    day: '1',
+    name: 'Hotel Fusion' },
+  RowDataPacket {
+    poiID: 'ChIJEdGJjp6AhYARGAL3TVoIHzw',
+    day: '1',
+    name: 'Termales Agua Caliente, San Francisco' },
+  RowDataPacket {
+    poiID: 'ChIJN2S4EI2AhYAR9J4Qeh1U8Aw',
+    day: '2',
+    name: 'Fairmont San Francisco' },
+  RowDataPacket {
+    poiID: 'ChIJP5PrLYSAhYARBcWhJXs55P4',
+    day: '4',
+    name: '54 Mint SF' } ]
+[ { day: '1', list: [ [Object], [Object] ] },
+  { day: '2', list: [ [Object] ] },
+  { day: '3', list: [] },
+  { day: '4', list: [ [Object] ] } ]
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'Hello',
+    tripID: 114502,
+    startDay: '2019-01-14T08:00:00.000Z',
+    endDay: '2019-01-17T08:00:00.000Z',
+    destination: 'San Francisco',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAygKdOygtlbIvB2zn1ia5VREd8M8qdr7LWPW_n8_SRGp7Was8rGeXAcrIbMID4WQFzydG-9jqa31HEKkv9XRO8OO5qUkTf5jF-KTGBu6GUdcZ1jsGv0RqhzvYsi02lD4PEhBZA6Td7nk47WyddJ0ek08VGhTV_iCesoxYGce0RtB9xeNPuqUN0A',
+    destinationID: 'ChIJIQBpAG2ahYAR_6128GcTUEo' },
+  RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: 114502 }
+DELETE FROM TripInfo WHERE tripID = 114502
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'400951\'' }
+SELECT * FROM TripInfo WHERE tripID = '400951';
+[ RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' } ]
+{ tripID: '\'400951\'',
+  userID: '\'NVYNz781T8WZQGiYtPNfYOpfo863\'',
+  totalDay: '5' }
+5
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '400951' AND userID = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    name: 'Seventh-Day Adventist Church' } ]
+[ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    name: 'Saint Theresa Parish Center' },
+  { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    name: 'The Brewery At Lake Tahoe' } ]
+[ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    name: 'The Bear Moon Bar & Grill' } ]
+[ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    name: 'Scusa Italian Ristorante' } ]
+[ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    name: 'Lake Tahoe Community Presbyterian Church' } ]
+{ '1': 
+   [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+       name: 'Riva Grill On the Lake' },
+     { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+       name: 'Seventh-Day Adventist Church' } ],
+  '2': 
+   [ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+       name: 'Saint Theresa Parish Center' },
+     { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+       name: 'The Brewery At Lake Tahoe' } ],
+  '3': 
+   [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+       name: 'Riva Grill On the Lake' },
+     { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+       name: 'The Bear Moon Bar & Grill' } ],
+  '4': 
+   [ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+       name: 'Scusa Italian Ristorante' } ],
+  '5': 
+   [ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+       name: 'Lake Tahoe Community Presbyterian Church' } ] }
+1 [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    name: 'Seventh-Day Adventist Church' } ]
+2 [ { place_id: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    name: 'Saint Theresa Parish Center' },
+  { place_id: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    name: 'The Brewery At Lake Tahoe' } ]
+3 [ { place_id: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    name: 'Riva Grill On the Lake' },
+  { place_id: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    name: 'The Bear Moon Bar & Grill' } ]
+4 [ { place_id: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    name: 'Scusa Italian Ristorante' } ]
+5 [ { place_id: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    name: 'Lake Tahoe Community Presbyterian Church' } ]
+[ RowDataPacket {
+    poiID: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    day: '1',
+    name: 'Riva Grill On the Lake' },
+  RowDataPacket {
+    poiID: 'ChIJ97RGLQmQmYARN0dpCG5O_RM',
+    day: '3',
+    name: 'Riva Grill On the Lake' },
+  RowDataPacket {
+    poiID: 'ChIJaS0rQOePmYAR5sAqnR3K4rU',
+    day: '5',
+    name: 'Lake Tahoe Community Presbyterian Church' },
+  RowDataPacket {
+    poiID: 'ChIJE2gxqQ6QmYAREo7qrm7hBIg',
+    day: '3',
+    name: 'The Bear Moon Bar & Grill' },
+  RowDataPacket {
+    poiID: 'ChIJg41vxMKPmYAR755dUlB5UC4',
+    day: '4',
+    name: 'Scusa Italian Ristorante' },
+  RowDataPacket {
+    poiID: 'ChIJjZAbrgKQmYARDBqjJLrP4o4',
+    day: '2',
+    name: 'Saint Theresa Parish Center' },
+  RowDataPacket {
+    poiID: 'ChIJw5CuuBGQmYARKWRbP2Jo3IQ',
+    day: '1',
+    name: 'Seventh-Day Adventist Church' },
+  RowDataPacket {
+    poiID: 'ChIJXRz_eQ-QmYARjA2wXTVde2U',
+    day: '2',
+    name: 'The Brewery At Lake Tahoe' } ]
+[ { day: '1', list: [ [Object], [Object] ] },
+  { day: '2', list: [ [Object], [Object] ] },
+  { day: '3', list: [ [Object], [Object] ] },
+  { day: '4', list: [ [Object] ] },
+  { day: '5', list: [ [Object] ] } ]
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+{ tripName: 'Summer Vacation',
+  destination: 'Japan',
+  destinationImage: 'CmRaAAAA6kEAF45XlvYVYLk10dKaVcQp1yDKieMT2-E6gbSofy-RnmROjxLSToOBhjS7FkJj3iHdsol4Y5SVRUCFdTAiYilH5m5cE0nrYZuf3HhHxuwW6BQBn51zZtRu4ut4UGVFEhAK24q6d9JEyLkROoKyruotGhTH_rwSTdpN6ZZuJFzjxLKWXd_4SQ',
+  destinationID: 'ChIJLxl_1w9OZzQRRFJmfNR1QvU',
+  totalDay: 14,
+  tripID: 63652,
+  userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+  startDay: '2019-02-01T08:00:00.000Z',
+  endDay: '2019-02-14T08:00:00.000Z' }
+INSERT INTO TripInfo (tripName, tripID, userID, destination, totalDay, startDay, endDay, destinationImage, destinationID) VALUES ('Summer Vacation', 63652, 'NVYNz781T8WZQGiYtPNfYOpfo863', 'Japan', 14, '2019-02-01T08:00:00.000Z', '2019-02-14T08:00:00.000Z', 'CmRaAAAA6kEAF45XlvYVYLk10dKaVcQp1yDKieMT2-E6gbSofy-RnmROjxLSToOBhjS7FkJj3iHdsol4Y5SVRUCFdTAiYilH5m5cE0nrYZuf3HhHxuwW6BQBn51zZtRu4ut4UGVFEhAK24q6d9JEyLkROoKyruotGhTH_rwSTdpN6ZZuJFzjxLKWXd_4SQ', 'ChIJLxl_1w9OZzQRRFJmfNR1QvU')
+{ tupleList: 
+   [ { poiID: 'ChIJV1Cn6bqxHWARPNkihF0ApJ0',
+       name: '（有）やまびこ',
+       day: 1,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 63652 },
+     { poiID: 'ChIJX0OOt3SyHWARDTd6JqNq4ZQ',
+       name: 'ダッタンそばレストラン緑の花のそば館',
+       day: 1,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 63652 },
+     { poiID: 'ChIJj2MNlxyyHWARczeDwjrf7-A',
+       name: 'レストハウス・エコー',
+       day: 1,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 63652 },
+     { poiID: 'ChIJozrwGvGxHWAREabz3ViQ_Gk',
+       name: '民宿みや',
+       day: 2,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 63652 },
+     { poiID: 'ChIJa2xzVHOyHWARR1UF1yOc-EY',
+       name: '信濃霧山ダッタンそば生産者組合',
+       day: 3,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 63652 },
+     { poiID: 'ChIJ5bfEyI2zHWARSnC8ZkQlyj8',
+       name: 'مايسترو بيتزا',
+       day: 3,
+       userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+       tripID: 63652 } ] }
+INSERT INTO TripDetail (poiID, day, userID, tripID, name) VALUES ("ChIJV1Cn6bqxHWARPNkihF0ApJ0", "1", "NVYNz781T8WZQGiYtPNfYOpfo863", "63652", "（有）やまびこ"),("ChIJX0OOt3SyHWARDTd6JqNq4ZQ", "1", "NVYNz781T8WZQGiYtPNfYOpfo863", "63652", "ダッタンそばレストラン緑の花のそば館"),("ChIJj2MNlxyyHWARczeDwjrf7-A", "1", "NVYNz781T8WZQGiYtPNfYOpfo863", "63652", "レストハウス・エコー"),("ChIJozrwGvGxHWAREabz3ViQ_Gk", "2", "NVYNz781T8WZQGiYtPNfYOpfo863", "63652", "民宿みや"),("ChIJa2xzVHOyHWARR1UF1yOc-EY", "3", "NVYNz781T8WZQGiYtPNfYOpfo863", "63652", "信濃霧山ダッタンそば生産者組合"),("ChIJ5bfEyI2zHWARSnC8ZkQlyj8", "3", "NVYNz781T8WZQGiYtPNfYOpfo863", "63652", "مايسترو بيتزا");
+Successfully insert into database
+Successfully insert day detail into database
+SELECT * FROM TripInfo WHERE userid = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ RowDataPacket {
+    tripName: 'Summer Vacation',
+    tripID: 63652,
+    startDay: '2019-02-01T08:00:00.000Z',
+    endDay: '2019-02-14T08:00:00.000Z',
+    destination: 'Japan',
+    totalDay: 14,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA6kEAF45XlvYVYLk10dKaVcQp1yDKieMT2-E6gbSofy-RnmROjxLSToOBhjS7FkJj3iHdsol4Y5SVRUCFdTAiYilH5m5cE0nrYZuf3HhHxuwW6BQBn51zZtRu4ut4UGVFEhAK24q6d9JEyLkROoKyruotGhTH_rwSTdpN6ZZuJFzjxLKWXd_4SQ',
+    destinationID: 'ChIJLxl_1w9OZzQRRFJmfNR1QvU' },
+  RowDataPacket {
+    tripName: 'It’s snowing ',
+    tripID: 400951,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'South Lake Tahoe',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA-oNTN76rnjzEyhZ58N8bpM_TERZYQRpVupts2WOpQI6nJQnoj7WAtEthT8ORcHPwQzSsG1NJOBBldvGXu-ObrlUvLilMNX4FWTkjjvvSl53-pmE_NEYpC4erkQ3wbfBGEhCNTcM48iHqwCH1whTNckklGhSRECXhLIxyMolc2vwhURLTCAp1mw',
+    destinationID: 'ChIJ4U-l7omFmYARjpEj-0YvG90' },
+  RowDataPacket {
+    tripName: 'Family',
+    tripID: 968929,
+    startDay: '2018-12-11T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'San Antonio',
+    totalDay: 4,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAEBxqmG3Un2W8qm-3iWdP1jba8JqZGf45jnGsRhnkBivAGjzGXHlfboveZEVJ1BeGIeGJFejsoiQLIqX6c-3y4iSCvgSRyaQ7mG79-5YZlUYgGAq-XdmvITyqdeigV9KQEhAcIaBA9T7oi6XdYPYMYxFiGhTG0zRICc5eWpBKvtf3uLe2ck5DAA',
+    destinationID: 'ChIJrw7QBK9YXIYRvBagEDvhVgg' },
+  RowDataPacket {
+    tripName: 'Friend',
+    tripID: 991388,
+    startDay: '2018-12-10T08:00:00.000Z',
+    endDay: '2018-12-14T08:00:00.000Z',
+    destination: 'Pyongyang',
+    totalDay: 5,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAAeYhRhxO3UzffotoK_Azw-hWqf_CiMJrfESWLLauHXXdiRqhvsyaiWlQtRAeKJ4FEh-O3RUAk5cCs5gZgJ6hZ4OFqtVilbIVflFSdDy-GI7m4yzvtvoBO1ArjLhvXT9yWEhC01mGywLqBUtuCPlnD3v_cGhQzDIFHefyraW0Kyukn8_VWNzg_mQ',
+    destinationID: 'ChIJN0NP5toCfjURlapxF-J3BtQ' } ]
+{ tripID: '\'63652\'' }
+SELECT * FROM TripInfo WHERE tripID = '63652';
+[ RowDataPacket {
+    tripName: 'Summer Vacation',
+    tripID: 63652,
+    startDay: '2019-02-01T08:00:00.000Z',
+    endDay: '2019-02-14T08:00:00.000Z',
+    destination: 'Japan',
+    totalDay: 14,
+    userID: 'NVYNz781T8WZQGiYtPNfYOpfo863',
+    destinationImage: 'CmRaAAAA6kEAF45XlvYVYLk10dKaVcQp1yDKieMT2-E6gbSofy-RnmROjxLSToOBhjS7FkJj3iHdsol4Y5SVRUCFdTAiYilH5m5cE0nrYZuf3HhHxuwW6BQBn51zZtRu4ut4UGVFEhAK24q6d9JEyLkROoKyruotGhTH_rwSTdpN6ZZuJFzjxLKWXd_4SQ',
+    destinationID: 'ChIJLxl_1w9OZzQRRFJmfNR1QvU' } ]
+{ tripID: '\'63652\'',
+  userID: '\'NVYNz781T8WZQGiYtPNfYOpfo863\'',
+  totalDay: '14' }
+14
+SELECT poiID , day , name FROM TripDetail WHERE tripID = '63652' AND userID = 'NVYNz781T8WZQGiYtPNfYOpfo863';
+[ { place_id: 'ChIJj2MNlxyyHWARczeDwjrf7-A', name: '??????????' },
+  { place_id: 'ChIJV1Cn6bqxHWARPNkihF0ApJ0', name: '???????' },
+  { place_id: 'ChIJX0OOt3SyHWARDTd6JqNq4ZQ',
+    name: '??????????????????' } ]
+[ { place_id: 'ChIJozrwGvGxHWAREabz3ViQ_Gk', name: '????' } ]
+[ { place_id: 'ChIJ5bfEyI2zHWARSnC8ZkQlyj8',
+    name: '??????? ?????' },
+  { place_id: 'ChIJa2xzVHOyHWARR1UF1yOc-EY',
+    name: '???????????????' } ]
+{ '1': 
+   [ { place_id: 'ChIJj2MNlxyyHWARczeDwjrf7-A', name: '??????????' },
+     { place_id: 'ChIJV1Cn6bqxHWARPNkihF0ApJ0', name: '???????' },
+     { place_id: 'ChIJX0OOt3SyHWARDTd6JqNq4ZQ',
+       name: '??????????????????' } ],
+  '2': [ { place_id: 'ChIJozrwGvGxHWAREabz3ViQ_Gk', name: '????' } ],
+  '3': 
+   [ { place_id: 'ChIJ5bfEyI2zHWARSnC8ZkQlyj8',
+       name: '??????? ?????' },
+     { place_id: 'ChIJa2xzVHOyHWARR1UF1yOc-EY',
+       name: '???????????????' } ],
+  '4': [],
+  '5': [],
+  '6': [],
+  '7': [],
+  '8': [],
+  '9': [],
+  '10': [],
+  '11': [],
+  '12': [],
+  '13': [],
+  '14': [] }
+1 [ { place_id: 'ChIJj2MNlxyyHWARczeDwjrf7-A', name: '??????????' },
+  { place_id: 'ChIJV1Cn6bqxHWARPNkihF0ApJ0', name: '???????' },
+  { place_id: 'ChIJX0OOt3SyHWARDTd6JqNq4ZQ',
+    name: '??????????????????' } ]
+2 [ { place_id: 'ChIJozrwGvGxHWAREabz3ViQ_Gk', name: '????' } ]
+3 [ { place_id: 'ChIJ5bfEyI2zHWARSnC8ZkQlyj8',
+    name: '??????? ?????' },
+  { place_id: 'ChIJa2xzVHOyHWARR1UF1yOc-EY',
+    name: '???????????????' } ]
+4 []
+5 []
+6 []
+7 []
+8 []
+9 []
+10 []
+11 []
+12 []
+13 []
+14 []
+[ RowDataPacket {
+    poiID: 'ChIJ5bfEyI2zHWARSnC8ZkQlyj8',
+    day: '3',
+    name: '??????? ?????' },
+  RowDataPacket {
+    poiID: 'ChIJa2xzVHOyHWARR1UF1yOc-EY',
+    day: '3',
+    name: '???????????????' },
+  RowDataPacket {
+    poiID: 'ChIJj2MNlxyyHWARczeDwjrf7-A',
+    day: '1',
+    name: '??????????' },
+  RowDataPacket { poiID: 'ChIJozrwGvGxHWAREabz3ViQ_Gk', day: '2', name: '????' },
+  RowDataPacket {
+    poiID: 'ChIJV1Cn6bqxHWARPNkihF0ApJ0',
+    day: '1',
+    name: '???????' },
+  RowDataPacket {
+    poiID: 'ChIJX0OOt3SyHWARDTd6JqNq4ZQ',
+    day: '1',
+    name: '??????????????????' } ]
+[ { day: '1', list: [ [Object], [Object], [Object] ] },
+  { day: '2', list: [ [Object] ] },
+  { day: '3', list: [ [Object], [Object] ] },
+  { day: '4', list: [] },
+  { day: '5', list: [] },
+  { day: '6', list: [] },
+  { day: '7', list: [] },
+  { day: '8', list: [] },
+  { day: '9', list: [] },
+  { day: '10', list: [] },
+  { day: '11', list: [] },
+  { day: '12', list: [] },
+  { day: '13', list: [] },
+  { day: '14', list: [] } ]
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
